@@ -1,8 +1,8 @@
 class Xcassetpacker < Formula
   desc "Create an Xcode .xcassets package from a folder of images"
   homepage "https://github.com/inquisitivesoft/XCAssetPacker"
-  url "https://github.com/inquisitiveSoft/XCAssetPacker/releases/download/v1.11/xcassetpacker.1.11.tar.gz"
-  sha256 "07f4d560eeafa35a17fe6cbe32bbe89d3cf3f28b74d21bbd5fdadba3c67b865d"
+  url "https://github.com/inquisitiveSoft/XCAssetPacker/releases/download/v1.12/xcassetpacker.1.12.tar.gz"
+  sha256 "fb9687388c70089060c75f1f4e37f75f3df6ee6953d42bb16f50952d39c2b531"
 
   bottle :unneeded
 
